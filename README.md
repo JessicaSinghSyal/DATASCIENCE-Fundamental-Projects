@@ -1,4 +1,5 @@
-# ALFIDO_TECH_DATASCIENCE
+# Data Science Basic Projects
+
 This repository contains the 3 internship task provided during the tenure under ALFIDO TECH. The tasks were completed and fulfilled successfully using Jupyter Notebook.
 
 The three data science tasks accomplished herein are as follows:
